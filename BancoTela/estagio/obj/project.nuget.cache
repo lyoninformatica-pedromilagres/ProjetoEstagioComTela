@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RCB4w5BSYyU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pedro.milagres\\source\\repos\\pedro\\estagio\\estagio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pedro.milagres\\.nuget\\packages\\firebirdsql.data.firebirdclient\\10.3.4\\firebirdsql.data.firebirdclient.10.3.4.nupkg.sha512"
+  ],
+  "logs": []
+}
