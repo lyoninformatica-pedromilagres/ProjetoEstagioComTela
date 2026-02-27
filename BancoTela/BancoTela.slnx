@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../pedro/estagio/estagio.csproj" />
+  <Project Path="BancoTela/BancoTela.csproj" />
+</Solution>
